@@ -6,4 +6,4 @@ added in the "hello-world-images" branch.
 
 more addition added after merge from emergency-fix, in the "hello-world-images" branch
 
-New line, intended for push to Github
+New line, wirtten in the "skeleteon-html" branch
