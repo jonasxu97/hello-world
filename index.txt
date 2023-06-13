@@ -1,3 +1,5 @@
 Original content
 
 added in the "hello-world-images" branch. 
+
+more addition added after merge from emergency-fix, in the "hello-world-images" branch
