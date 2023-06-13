@@ -1,1 +1,3 @@
 Original content
+
+added in the "hello-world-images" branch. 
