@@ -1,6 +1,10 @@
 Hej, detta är det första jag skriver i dokumnetet. 
 
 First update. 
+
 Another line, second update
 
 This change was made in the emergency-fix branch. 
+Aother line, third update (new branch)
+
+Another line, third update (hello-wolrd-images branch)
