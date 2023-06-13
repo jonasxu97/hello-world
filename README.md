@@ -6,3 +6,5 @@ This tutorial focuses mainly on Git and usisng GitHub as its remote.
 This repository is built step by step in the tutorial.
 
 It now inclueds steps for GitHub
+
+New line, added in the "update-checkout" branch. 
